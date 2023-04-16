@@ -7,3 +7,4 @@ seaborn==0.12.2
 xgboost==1.7.5
 plotly==5.14.1
 tenacity==8.2.2
+packaging==23.1
